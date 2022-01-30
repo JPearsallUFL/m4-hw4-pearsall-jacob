@@ -10,6 +10,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    right: 0;
 }
 
 .navbar-top a {
@@ -37,7 +38,7 @@ main {
 h1 {
     font-size: 40px;
 }
-
+ 
 section.row {
     display: flex;
 }
@@ -76,6 +77,7 @@ ul {
     bottom: 0;
     width: 100%;
     padding: 15px 15px;
+    right: 0;
 }
 
 .navbar-bottom a {
